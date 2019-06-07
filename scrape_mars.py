@@ -124,7 +124,7 @@ def scrape():
 
 
     #then click "more info" to get the full size image
-    time.sleep(3)
+    time.sleep(2)
     browser.click_link_by_partial_text('more info')
 
 
